@@ -1,4 +1,4 @@
-namespace ApiProject.Models
+namespace FFFP.Models
 {
     public class Singer
     {
