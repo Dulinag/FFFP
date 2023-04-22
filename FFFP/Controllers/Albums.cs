@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace ApiProject.Models
+namespace FFFP.Models
 {
     public class Albums
     {
